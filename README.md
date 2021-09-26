@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Anthony Sparks
+- 👀 I’m interested in ...
+      Coding, gaming and tech.
+- 🌱 I’m currently learning ...
+      How to code T - T
+- 💞️ I’m looking to collaborate on ...
+      projects related to my classes
+- 📫 How to reach me ...
+
+<!---
+TheKingGamer117/TheKingGamer117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
